@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+  }
+
+.cardhover{
+    color: inherit;
+    text-decoration: none;
+}
+
+.card{
+    background: 
+    linear-gradient(to right, transparent, transparent),
+    linear-gradient(to right, #d2513f, #a74332, #69322d);
+  background-size: 100% 0.1em, 0 0.1em;
+  background-position: 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 400ms;
+}
+
+.card:hover , .card:focus{
+    background-size: 0 0.1em, 100% 0.1em;
+    color:coral;
+}
