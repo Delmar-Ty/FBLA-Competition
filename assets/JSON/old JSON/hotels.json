@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Amara Resort and Spa",
+        "address": "100 Amara Ln, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.467530781427!2d-111.76069498429506!3d34.86960438039148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3e251059e65%3A0x8e8cc925b289e6af!2sAmara%20Resort%20and%20Spa!5e0!3m2!1sen!2sus!4v1648239068201!5m2!1sen!2sus",
+        "info": "",
+        "type": "hotels",
+        "img": "amara-resort"
+    },
+    {
+        "name": "Sedona Pines Resort",
+        "address": "6701 AZ-89A, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3274.5088929405297!2d-111.8681298842957!3d34.84343838039818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872cffddd7d03b93%3A0x15d0a2bd072b4056!2sSedona%20Pines%20Resort!5e0!3m2!1sen!2sus!4v1648239193189!5m2!1sen!2sus",
+        "info": "",
+        "type": "hotels",
+        "img": "sedona-pines"
+    },
+    {
+        "name": "Hampton Inn",
+        "address": "1800 W Arizona 89a, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.6790343625526!2d-111.79359198429523!3d34.864291380392956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da13a20e32295%3A0xa74ebfeaa53fe7eb!2sHampton%20Inn%20Sedona!5e0!3m2!1sen!2sus!4v1648239242540!5m2!1sen!2sus",
+        "info": "",
+        "type": "hotels",
+        "img": "hampton-inn"
+    },
+    {
+        "name": "Holiday Inn Express Sedona - Oak Creek",
+        "address": "6176 AZ-179, Sedona, AZ 86351",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.7526400918814!2d-111.76638568429684!3d34.78700198041242!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da609a0ec8d9b%3A0xc40c8eef79891d38!2sHoliday%20Inn%20Express%20Sedona%20-%20Oak%20Creek%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sus!4v1648239287697!5m2!1sen!2sus",
+        "info": "",
+        "type": "hotels",
+        "img": "holiday-inn"
+    },
+    {
+        "name": "Hilton Sedona Resort at Bell Rock",
+        "address": "90 Ridge Trail Dr, Sedona, AZ 86351",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3277.2662914604166!2d-111.76792198429706!3d34.774070980415594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da601c70ec6d3%3A0x74b0c0b993aa2cc0!2sHilton%20Sedona%20Resort%20at%20Bell%20Rock!5e0!3m2!1sen!2sus!4v1648239346011!5m2!1sen!2sus",
+        "info": "",
+        "type": "hotels",
+        "img": "hilton-sedona"
+    },
+    {
+        "name": "Element Sedona",
+        "address": "6601 AZ-179, Sedona, AZ 86351",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3277.071941059659!2d-111.76469648429696!3d34.77896418041442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da6074c63d667%3A0xd7b05b00e383f2d6!2sElement%20Sedona!5e0!3m2!1sen!2sus!4v1648239382161!5m2!1sen!2sus",
+        "info": "",
+        "type": "hotels",
+        "img": "element-sedona"
+    },
+    {
+        "name": "Courtyard by Marriott Sedona",
+        "address": "4105 W State Rte 89A, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3274.2504269413807!2d-111.82996458429541!3d34.84993438039641!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da0cee5913eb7%3A0x353a854b0cc30564!2sCourtyard%20by%20Marriott%20Sedona!5e0!3m2!1sen!2sus!4v1648239437362!5m2!1sen!2sus",
+        "info": "",
+        "type": "hotels",
+        "img": "courtyard-marriott"
+    },
+    {
+        "name": "The Matterhorn Inn",
+        "address": "230 Apple Ave, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.3805605275784!2d-111.76174148429493!3d34.871788880390994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3e2457c601b%3A0x2409302d409cd7a3!2sThe%20Matterhorn%20Inn!5e0!3m2!1sen!2sus!4v1648239484490!5m2!1sen!2sus",
+        "info": "",
+        "type": "hotels",
+        "img": "matterhorn-inn"
+    },
+    {
+        "name": "Best Western Plus Arroyo Roble Hotel & Creekside Villas",
+        "address": "400 N State Rte 89A, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.376706574231!2d-111.76036838429502!3d34.87188568039102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3e24dadca7b%3A0xcb5038e1857dae5c!2sBest%20Western%20Plus%20Arroyo%20Roble%20Hotel%20%26%20Creekside%20Villas!5e0!3m2!1sen!2sus!4v1648239565289!5m2!1sen!2sus",
+        "info": "",
+        "type": "hotels",
+        "img": "best-western"
+    },
+    {
+        "name": "Enchantment Resort",
+        "address": "525 Boynton Canyon Rd, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3271.672930501417!2d-111.85648548429418!3d34.914656580380125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da00ecc459147%3A0xfbe39a6b903e448f!2sEnchantment%20Resort!5e0!3m2!1sen!2sus!4v1648239614184!5m2!1sen!2sus",
+        "info": "",
+        "type": "hotels",
+        "img": "enchantment-sedona"
+    },
+    {
+        "name": "Muyawki Inn",
+        "address": "6465 AZ-179, Sedona, AZ 86351",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.9638726603775!2d-111.76463288429683!3d34.78168478041386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da600c9f2116f%3A0x171520002a373373!2sMuyawki%20Inn!5e0!3m2!1sen!2sus!4v1648239654583!5m2!1sen!2sus",
+        "info": "",
+        "type": "hotels",
+        "img": "muyawki-inn"
+    },
+    {
+        "name": "Bell Rock Inn by Diamond Resorts",
+        "address": "6246 AZ-179, Sedona, AZ 86351",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.799837359119!2d-111.76583568429695!3d34.78581398041296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da60872615d69%3A0x1cc7f860ce9942b2!2sBell%20Rock%20Inn%20by%20Diamond%20Resorts!5e0!3m2!1sen!2sus!4v1648239688358!5m2!1sen!2sus",
+        "info": "",
+        "type": "hotels",
+        "img": "bell-rock-inn"
+    }
+]

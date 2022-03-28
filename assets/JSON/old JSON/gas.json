@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Circle K",
+        "address": "711 AZ-179, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13095.75440028207!2d-111.77223236204662!3d34.85777008630972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da15575cee10f%3A0xfced00bee21d5226!2sCircle%20K!5e0!3m2!1sen!2sus!4v1648164031360!5m2!1sen!2sus",
+        "info": "",
+        "type": "gas",
+        "img": "circle-K"
+    },
+    {
+        "name": "Circle K",
+        "address": "2570 AZ-89A, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.859946157092!2d-111.81389226204446!3d34.863388186287004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da126efbc4311%3A0x4e392c3484302866!2sCircle%20K!5e0!3m2!1sen!2sus!4v1648164146236!5m2!1sen!2sus",
+        "info": "",
+        "type": "gas",
+        "img": "circle-K-2"
+    },
+    {
+        "name": "76 Gas Station",
+        "address": "145 AZ-89A, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.487470566211!2d-111.77286416204358!3d34.86572748627757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da157a6e823ff%3A0x98de9d51ec76284e!2s76!5e0!3m2!1sen!2sus!4v1648167244869!5m2!1sen!2sus",
+        "info": "",
+        "type": "gas",
+        "img": "76"
+    },
+    {
+        "name": "Conoco",
+        "address": "2035 AZ-89A, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.837527861459!2d-111.80458106204439!3d34.86352898628645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da13adca88515%3A0xba2440edf4773526!2sConoco!5e0!3m2!1sen!2sus!4v1648164783129!5m2!1sen!2sus",
+        "info": "",
+        "type": "gas",
+        "img": "conoco"
+    },
+    {
+        "name": "Speedway",
+        "address": "2960 W State Rte 89A, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.957674990814!2d-111.82015406204468!3d34.86277438628951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da0d8dd5f290d%3A0x339a2e7e8d5f14fa!2sSpeedway!5e0!3m2!1sen!2sus!4v1648167158236!5m2!1sen!2sus",
+        "info": "",
+        "type": "gas",
+        "img": "speedway"
+    },
+    {
+        "name": "Cheveron",
+        "address": "6416 E. HWY 179, Sedona, AZ 86351",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.957674990814!2d-111.82015406204468!3d34.86277438628951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da0d8dd5f290d%3A0x339a2e7e8d5f14fa!2sSpeedway!5e0!3m2!1sen!2sus!4v1648167158236!5m2!1sen!2sus",
+        "info": "",
+        "type": "gas",
+        "img": "cheveron"
+    },
+    {
+        "name": "Shell",
+        "address": "2570 W State Rte 89A, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.904909886669!2d-111.81406596204455!3d34.86310578628814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da126efb8e913%3A0x5125422f45958cb7!2sShell!5e0!3m2!1sen!2sus!4v1648170941657!5m2!1sen!2sus",
+        "info": "",
+        "type": "gas",
+        "img": "shell"
+    },
+    {
+        "name": "ampm",
+        "address": "1990 AZ-89A, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.68309741084!2d-111.80341486204408!3d34.8644988862825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da13b0295315b%3A0xaeb8eb927d9b7216!2sampm!5e0!3m2!1sen!2sus!4v1648171041451!5m2!1sen!2sus",
+        "info": "",
+        "type": "gas",
+        "img": "ampm"
+    },
+    {
+        "name": "ARCO",
+        "address": "1990 AZ-89A, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.70749063392!2d-111.8036647620441!3d34.864345686283116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da13b02952149%3A0x3b137fc144114b09!2sARCO!5e0!3m2!1sen!2sus!4v1648171104845!5m2!1sen!2sus",
+        "info": "",
+        "type": "gas",
+        "img": "arco"
+    }
+]
