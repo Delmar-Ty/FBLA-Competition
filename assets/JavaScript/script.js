@@ -81,11 +81,14 @@ function updateModal(row, col) {
             <div class="modal-body d-flex justify-content-start">
                 <div class="container-fluid">
                     <div class="row">
-                        <div class="col-sm-9">
+                        <div class="col-sm-8">
                             <iframe src="${places[row][col].map}" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                         </div>
-                        <div class="col-sm-3">
-                            Hello
+                        <div class="col-sm-4">
+                            <p><strong>Address: </strong>${places[row][col].address}</p>
+                            <p><strong>Info: </strong>${places[row][col].info}</p>
+                            <p><strong>Hours: </strong>${places[row][col].hours.join('<br>')}</p>
+                            <p><strong>Website: </strong>${places[row][col].website}</p>
                         </div>
                     </div>
                 </div>
