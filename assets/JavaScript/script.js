@@ -88,7 +88,7 @@ function updateModal(row, col) {
                             <p><strong>Address: </strong>${places[row][col].address}</p>
                             <p><strong>Info: </strong>${places[row][col].info}</p>
                             <p><strong>Hours: </strong>${places[row][col].hours.join('<br>')}</p>
-                            <p><strong>Website: </strong>${places[row][col].website}</p>
+                            <p><strong>Website: </strong><a href="${places[row][col].website}" target="_blank">${places[row][col].name}</p>
                         </div>
                     </div>
                 </div>

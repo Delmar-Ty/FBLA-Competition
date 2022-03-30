@@ -14,7 +14,7 @@
             "name": "Pink Jeep Tours",
             "address": "204 N State Rte 89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13093.986003741442!2d-111.76977480445267!3d34.868876687800835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3e2a4b3f697%3A0x54551c70d1295739!2sPink%20Jeep%20Tours!5e0!3m2!1sen!2sus!4v1648083432135!5m2!1sen!2sus",
-            "info": "A company that offers guided jeep tours of Sedona Arizona",
+            "info": "A company that offers guided jeep tours of Sedona Arizona.",
             "type": "attractions",
             "img": "pink-jeep-tours.jpg",
             "website": "https://www.pinkadventuretours.com/tours/sedona-tours?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing&utm_id=Sedona+GMB",
@@ -24,7 +24,7 @@
             "name": "Slide Rock State Park",
             "address": "6871 AZ-89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13082.078812608268!2d-111.76166400442355!3d34.94358078750137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da245f82fa8c7%3A0xdea6820f805d0b1b!2sSlide%20Rock%20State%20Park!5e0!3m2!1sen!2sus!4v1648083873363!5m2!1sen!2sus",
-            "info": "Slide Rock Sate Park is a 43-acre historic apple farm in Oak Creek Canyon",
+            "info": "Slide Rock Sate Park is a 43-acre historic apple farm in Oak Creek Canyon.",
             "type": "attractions",
             "img": "slide-rock.jpg",
             "website": "https://azstateparks.com/slide-rock/",
@@ -104,7 +104,7 @@
             "name": "Red Rock Scenic Byway",
             "address": "AZ-179, Sedona, AZ 86351",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3279.188210164428!2d-111.77740718440549!3d34.72564998938873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da93ef659ad6d%3A0x4c10a14d13c24cc7!2sRed%20Rock%20Scenic%20Byway!5e0!3m2!1sen!2sus!4v1648154916123!5m2!1sen!2sus",
-            "info": "A scenic view right off the highway near Sedona Arizona that gives views of the Sedona red rock country",
+            "info": "A scenic view right off the highway near Sedona Arizona that gives views of the Sedona red rock country.",
             "type": "attractions",
             "img": "red-rock-byway.jpg",
             "website": "Not Listed",
@@ -248,91 +248,91 @@
             "name": "Circle K",
             "address": "711 AZ-179, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13095.75440028207!2d-111.77223236204662!3d34.85777008630972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da15575cee10f%3A0xfced00bee21d5226!2sCircle%20K!5e0!3m2!1sen!2sus!4v1648164031360!5m2!1sen!2sus",
-            "info": "",
+            "info": "Circle K gas station located along AZ-179 with In-store shopping.",
             "type": "gas",
             "img": "circle-K.jpg",
-            "website": "",
-            "hours": []
+            "website": "https://www.circlek.com/store-locator/US/sedona/711-hwy-179/2700587?utm_source=google&utm_medium=local&utm_campaign=google-local",
+            "hours": ["Open 24 Hours"]
         },
         {
             "name": "Circle K",
             "address": "2570 AZ-89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.859946157092!2d-111.81389226204446!3d34.863388186287004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da126efbc4311%3A0x4e392c3484302866!2sCircle%20K!5e0!3m2!1sen!2sus!4v1648164146236!5m2!1sen!2sus",
-            "info": "",
+            "info": "Cricle K gas station along AZ-89A with In-store shopping.",
             "type": "gas",
             "img": "circle-K-2.jpg",
-            "website": "",
-            "hours": []
+            "website": "https://www.circlek.com/store-locator/US/sedona/2570-w-hwy-89a/2701535?utm_source=google&utm_medium=local&utm_campaign=google-local",
+            "hours": ["Open 24 Hours"]
         },
         {
             "name": "76 Gas Station",
             "address": "145 AZ-89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.487470566211!2d-111.77286416204358!3d34.86572748627757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da157a6e823ff%3A0x98de9d51ec76284e!2s76!5e0!3m2!1sen!2sus!4v1648167244869!5m2!1sen!2sus",
-            "info": "",
+            "info": "76 gas station along AZ-89A.",
             "type": "gas",
             "img": "76.jpg",
-            "website": "",
-            "hours": []
+            "website": "https://www.76.com/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+            "hours": ["Not Listed"]
         },
         {
             "name": "Conoco",
             "address": "2035 AZ-89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.837527861459!2d-111.80458106204439!3d34.86352898628645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da13adca88515%3A0xba2440edf4773526!2sConoco!5e0!3m2!1sen!2sus!4v1648164783129!5m2!1sen!2sus",
-            "info": "",
+            "info": "Conoco gas station along AZ-89A.",
             "type": "gas",
             "img": "conoco.jpeg",
-            "website": "",
-            "hours": []
+            "website": "https://www.conoco.com/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+            "hours": ["Conoco"]
         },
         {
             "name": "Speedway",
             "address": "2960 W State Rte 89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.957674990814!2d-111.82015406204468!3d34.86277438628951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da0d8dd5f290d%3A0x339a2e7e8d5f14fa!2sSpeedway!5e0!3m2!1sen!2sus!4v1648167158236!5m2!1sen!2sus",
-            "info": "",
+            "info": "Speedway gas station and convenience-store along AZ-89A.",
             "type": "gas",
             "img": "speedway.jpg",
-            "website": "",
-            "hours": []
+            "website": "https://www.speedway.com/locations/AZ/Sedona/2960-W-State-Route-89A",
+            "hours": ["Open 24 Hours"]
         },
         {
             "name": "Cheveron",
             "address": "6416 E. HWY 179, Sedona, AZ 86351",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.957674990814!2d-111.82015406204468!3d34.86277438628951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da0d8dd5f290d%3A0x339a2e7e8d5f14fa!2sSpeedway!5e0!3m2!1sen!2sus!4v1648167158236!5m2!1sen!2sus",
-            "info": "",
+            "info": "Cheveron gas station along AZ-179.",
             "type": "gas",
             "img": "cheveron.jpg",
-            "website": "",
-            "hours": []
+            "website": "Cheveron",
+            "hours": ["Monday - Sunday: 6AM-9PM"]
         },
         {
             "name": "Shell",
             "address": "2570 W State Rte 89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.904909886669!2d-111.81406596204455!3d34.86310578628814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da126efb8e913%3A0x5125422f45958cb7!2sShell!5e0!3m2!1sen!2sus!4v1648170941657!5m2!1sen!2sus",
-            "info": "",
+            "info": "Shell gas station along AZ-89A.",
             "type": "gas",
             "img": "shell.jpg",
-            "website": "",
-            "hours": []
+            "website": "https://find.shell.com/us/fuel/10048707-2570-w-highway-89a",
+            "hours": ["Open 24 Hours"]
         },
         {
             "name": "ampm",
             "address": "1990 AZ-89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.68309741084!2d-111.80341486204408!3d34.8644988862825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da13b0295315b%3A0xaeb8eb927d9b7216!2sampm!5e0!3m2!1sen!2sus!4v1648171041451!5m2!1sen!2sus",
-            "info": "",
+            "info": "apmpm gas station and convenience-store along AZ-89A.",
             "type": "gas",
             "img": "ampm.jfif",
-            "website": "",
-            "hours": []
+            "website": "https://www.ampm.com/",
+            "hours": ["Open 24 Hours"]
         },
         {
             "name": "ARCO",
             "address": "1990 AZ-89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.70749063392!2d-111.8036647620441!3d34.864345686283116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da13b02952149%3A0x3b137fc144114b09!2sARCO!5e0!3m2!1sen!2sus!4v1648171104845!5m2!1sen!2sus",
-            "info": "",
+            "info": "ARCO gas station along AZ-89A.",
             "type": "gas",
             "img": "arco.jpg",
-            "website": "",
-            "hours": []
+            "website": "https://www.arco.com/en-us/southwest/find-a-station/",
+            "hours": ["Open 24 Hours"]
         }
     ],
     [
@@ -340,121 +340,121 @@
             "name": "Amara Resort and Spa",
             "address": "100 Amara Ln, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.467530781427!2d-111.76069498429506!3d34.86960438039148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3e251059e65%3A0x8e8cc925b289e6af!2sAmara%20Resort%20and%20Spa!5e0!3m2!1sen!2sus!4v1648239068201!5m2!1sen!2sus",
-            "info": "",
+            "info": "4-star hotel set on Oak Creek and about 7 miles from Slide Rock State Park and about 5 miles from Cathedral Rock.",
             "type": "hotels",
             "img": "amara-resort.jpg",
-            "website": "",
-            "hours": []
+            "website": "https://www.amararesort.com/",
+            "hours": ["Check-in time: 4PM", "Check-out time: 11AM"]
         },
         {
             "name": "Sedona Pines Resort",
             "address": "6701 AZ-89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3274.5088929405297!2d-111.8681298842957!3d34.84343838039818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872cffddd7d03b93%3A0x15d0a2bd072b4056!2sSedona%20Pines%20Resort!5e0!3m2!1sen!2sus!4v1648239193189!5m2!1sen!2sus",
-            "info": "",
+            "info": "3-star hotel located along AZ-89A and not far from the center of town.",
             "type": "hotels",
             "img": "sedona-pines.jpg",
-            "website": "",
-            "hours": []
+            "website": "http://www.sedonapines.com/",
+            "hours": ["Check-in time: 4PM", "Check-out time: 11AM"]
         },
         {
             "name": "Hampton Inn",
             "address": "1800 W Arizona 89a, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.6790343625526!2d-111.79359198429523!3d34.864291380392956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da13a20e32295%3A0xa74ebfeaa53fe7eb!2sHampton%20Inn%20Sedona!5e0!3m2!1sen!2sus!4v1648239242540!5m2!1sen!2sus",
-            "info": "",
+            "info": "3-star hotel that is 7 miles from Red Rock State Park and 6 miles from Cathedral Rock trailhead.",
             "type": "hotels",
             "img": "hampton-inn.jpg",
-            "website": "",
-            "hours": []
+            "website": "https://www.hilton.com/en/hotels/flgsdhx-hampton-sedona/?SEO_id=GMB-AMER-HX-FLGSDHX&y_source=1_MjA4MjcxNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "hours": ["Check-in time: 3PM", "Check-out time: 12PM"]
         },
         {
             "name": "Holiday Inn Express Sedona - Oak Creek",
             "address": "6176 AZ-179, Sedona, AZ 86351",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.7526400918814!2d-111.76638568429684!3d34.78700198041242!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da609a0ec8d9b%3A0xc40c8eef79891d38!2sHoliday%20Inn%20Express%20Sedona%20-%20Oak%20Creek%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sus!4v1648239287697!5m2!1sen!2sus",
-            "info": "",
+            "info": "3-star hotel along AZ-179A and close to Cathedral Rock and Courthouse Butte hiking.",
             "type": "hotels",
             "img": "holiday-inn.jfif",
-            "website": "",
-            "hours": []
+            "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/sedona/sdoaz/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-US-_-SDOAZ",
+            "hours": ["Check-in time: 3PM", "Check-out: 11AM"]
         },
         {
             "name": "Hilton Sedona Resort at Bell Rock",
             "address": "90 Ridge Trail Dr, Sedona, AZ 86351",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3277.2662914604166!2d-111.76792198429706!3d34.774070980415594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da601c70ec6d3%3A0x74b0c0b993aa2cc0!2sHilton%20Sedona%20Resort%20at%20Bell%20Rock!5e0!3m2!1sen!2sus!4v1648239346011!5m2!1sen!2sus",
-            "info": "",
+            "info": "4-star hotel close to Cathedral Rock and Courthouse Butte hiking.",
             "type": "hotels",
             "img": "hilton-sedona.jfif",
-            "website": "",
-            "hours": []
+            "website": "https://www.hilton.com/en/hotels/sdxsehh-hilton-sedona-resort-at-bell-rock/?SEO_id=GMB-AMER-HI-SDXSEHH&y_source=1_MTIyMDk3Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "hours": ["Check-in time: 4PM", "Check-out time: 11AM"]
         },
         {
             "name": "Element Sedona",
             "address": "6601 AZ-179, Sedona, AZ 86351",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3277.071941059659!2d-111.76469648429696!3d34.77896418041442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da6074c63d667%3A0xd7b05b00e383f2d6!2sElement%20Sedona!5e0!3m2!1sen!2sus!4v1648239382161!5m2!1sen!2sus",
-            "info": "",
+            "info": "4-star hotel close to Cathedral Rock and Courthouse Butte hiking.",
             "type": "hotels",
             "img": "element-sedona.jfif",
-            "website": "",
-            "hours": []
+            "website": "https://www.marriott.com/hotels/travel/flgel-element-sedona/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2&y_source=1_MTUxNDk1NDAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "hours": ["Check-in time: 4PM", "Check-out time: 11AM"]
         },
         {
             "name": "Courtyard by Marriott Sedona",
             "address": "4105 W State Rte 89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3274.2504269413807!2d-111.82996458429541!3d34.84993438039641!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da0cee5913eb7%3A0x353a854b0cc30564!2sCourtyard%20by%20Marriott%20Sedona!5e0!3m2!1sen!2sus!4v1648239437362!5m2!1sen!2sus",
-            "info": "",
+            "info": "3-star hotel along AZ-89A in Red Rock State Park and is 8 miles from Cathedral Rock.",
             "type": "hotels",
             "img": "courtyard-marriott.jpg",
-            "website": "",
-            "hours": []
+            "website": "https://www.marriott.com/hotels/travel/flgcs-courtyard-sedona/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2&y_source=1_Mzg5MDI0Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "hours": ["Check-in time: 4PM", "Check-out time: 11AM"]
         },
         {
             "name": "The Matterhorn Inn",
             "address": "230 Apple Ave, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.3805605275784!2d-111.76174148429493!3d34.871788880390994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3e2457c601b%3A0x2409302d409cd7a3!2sThe%20Matterhorn%20Inn!5e0!3m2!1sen!2sus!4v1648239484490!5m2!1sen!2sus",
-            "info": "",
+            "info": "3-star hotel surrounded the rock formations of Oak Creek Canyon within a 3 minute walk from shops and restaurants of downtown Sedona and 5 miles from Cathedral Rock.",
             "type": "hotels",
             "img": "matterhorn-inn.jpg",
-            "website": "",
-            "hours": []
+            "website": "http://www.matterhorninn.com/",
+            "hours": ["Check-in time: 3PM", "Check-out time: 11AM"]
         },
         {
             "name": "Best Western Plus Arroyo Roble Hotel & Creekside Villas",
             "address": "400 N State Rte 89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.376706574231!2d-111.76036838429502!3d34.87188568039102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3e24dadca7b%3A0xcb5038e1857dae5c!2sBest%20Western%20Plus%20Arroyo%20Roble%20Hotel%20%26%20Creekside%20Villas!5e0!3m2!1sen!2sus!4v1648239565289!5m2!1sen!2sus",
-            "info": "",
+            "info": "3-star hotel is 4 miles from the Chapel of the Hlly Cross and 7 miles from Slide Rock State Park.",
             "type": "hotels",
             "img": "best-western.jpg",
-            "website": "",
-            "hours": []
+            "website": "http://bestwesternsedona.com/",
+            "hours": ["Check-in time: 3PM", "Check-out time: 11AM"]
         },
         {
             "name": "Enchantment Resort",
             "address": "525 Boynton Canyon Rd, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3271.672930501417!2d-111.85648548429418!3d34.914656580380125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da00ecc459147%3A0xfbe39a6b903e448f!2sEnchantment%20Resort!5e0!3m2!1sen!2sus!4v1648239614184!5m2!1sen!2sus",
-            "info": "",
+            "info": "5-star hotel is on 70 acres in Boynton Cnayon and is 8.5 miles from Sedona and 16 miles from Slide Rock State Park.",
             "type": "hotels",
             "img": "enchantment-sedona.jpg",
-            "website": "",
-            "hours": []
+            "website": "https://www.enchantmentresort.com/",
+            "hours": ["Check-in time: 4PM", "Check-out time: 12PM"]
         },
         {
             "name": "Muyawki Inn",
             "address": "6465 AZ-179, Sedona, AZ 86351",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.9638726603775!2d-111.76463288429683!3d34.78168478041386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da600c9f2116f%3A0x171520002a373373!2sMuyawki%20Inn!5e0!3m2!1sen!2sus!4v1648239654583!5m2!1sen!2sus",
-            "info": "",
+            "info": "2-star hotel that is close to Cathedral Rock and Courthouse Butte hiking.",
             "type": "hotels",
             "img": "muyawki-inn.jpg",
-            "website": "",
-            "hours": []
+            "website": "https://muyawkiinn.com/",
+            "hours": ["Check-in time: 4PM", "Check-out time: 11AM"]
         },
         {
             "name": "Bell Rock Inn by Diamond Resorts",
             "address": "6246 AZ-179, Sedona, AZ 86351",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.799837359119!2d-111.76583568429695!3d34.78581398041296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da60872615d69%3A0x1cc7f860ce9942b2!2sBell%20Rock%20Inn%20by%20Diamond%20Resorts!5e0!3m2!1sen!2sus!4v1648239688358!5m2!1sen!2sus",
-            "info": "",
+            "info": "3-star hotel that is close to Cathedral Rock and Courthouse Butte hiking.",
             "type": "hotels",
             "img": "bell-rock-inn.jpg",
-            "website": "",
-            "hours": []
+            "website": "https://www.sedonahotelsandresorts.com/bellrockinnandsuites/?utm_source=google&utm_medium=organic&utm_campaign=bri-gmb-listing&utm_content=gmb-listing_weblink",
+            "hours": ["Check-in time: 4PM", "Check-out time: 10AM"]
         }
     ],
     [
@@ -462,121 +462,121 @@
             "name": "Sedona Village Shopping Center",
             "address": "140 Coffee Pot Dr, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.6363179235977!2d-111.79672658429516!3d34.86536448039258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da13b0e9276a3%3A0xbae9d4a12aed0d9!2sSedona%20Village%20Shopping%20Center!5e0!3m2!1sen!2sus!4v1648239831496!5m2!1sen!2sus",
-            "info": "",
+            "info": "Shopping center in downtown Sedona with food.",
             "type": "shop",
             "img": "sedona-village.webp",
-            "website": "",
-            "hours": []
+            "website": "Not Listed",
+            "hours": ["Not Listed"]
         },
         {
             "name": "Hillside Sedona Shopping Center",
             "address": "671 AZ-179, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.8936301695203!2d-111.76508868429524!3d34.85889998039414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da1559d971b0d%3A0xb3f183be79419ce0!2sHillside%20Sedona%20Shopping%20Center!5e0!3m2!1sen!2sus!4v1648239915493!5m2!1sen!2sus",
-            "info": "",
+            "info": "Shopping center alongside AZ-179 with fashion, art galleries and food.",
             "type": "shop",
             "img": "hillside-shopping.jpg",
-            "website": "",
-            "hours": []
+            "website": "Not Listed",
+            "hours": ["Monday - Sunday: 10AM-6PM"]
         },
         {
             "name": "Creekside Plaza",
             "address": "251 AZ-179, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.694817380235!2d-111.7657072842952!3d34.86389488039298!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da15673746863%3A0x5cc98d5afb263122!2sCreekside%20Plaza!5e0!3m2!1sen!2sus!4v1648239953057!5m2!1sen!2sus",
-            "info": "",
+            "info": "A plaza located by AZ-179 being known for it's Upscale American comfort fare.",
             "type": "shop",
             "img": "creekside.jfif",
-            "website": "",
-            "hours": []
+            "website": "Not Listed",
+            "hours": ["Monday - Saturday: 10AM-6PM", "Sunday: 12-6PM"]
         },
         {
             "name": "Hummingbird House",
             "address": "100 Brewer Rd, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.6768211450194!2d-111.76712968429518!3d34.8643469803929!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da156fccc59a3%3A0x20eeed07a77cde7f!2sHummingbird%20House!5e0!3m2!1sen!2sus!4v1648239991444!5m2!1sen!2sus",
-            "info": "",
+            "info": "Shop close to AZ-89A with an artistic and craftsman feel.",
             "type": "shop",
             "img": "hummingbird-house.jpg",
-            "website": "",
-            "hours": []
+            "website": "http://www.hummingbirdhouse-sedona.com/",
+            "hours": ["Monday - Saturday: 10AM-5PM", "Sunday: 11:30AM-4PM"]
         },
         {
             "name": "Sedona Crystal Vortex",
             "address": "300 N State Rte 89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.4138283562484!2d-111.76181008429506!3d34.87095328039101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3e28edb8b47%3A0xecc0dbd90df173b2!2sSedona%20Crystal%20Vortex!5e0!3m2!1sen!2sus!4v1648240031089!5m2!1sen!2sus",
-            "info": "",
+            "info": "Locally owned shop along AZ-89A selling crystals, minerals and more.",
             "type": "shop",
             "img": "sedona-crystal-vortex.jpg",
-            "website": "",
-            "hours": []
+            "website": "https://www.sedonacrystalvortex.com/",
+            "hours": ["Monday - Sunday: 9AM-8:30PM"]
         },
         {
             "name": "Clear Creek Trading Company",
             "address": "435 N State Rte 89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.349143369012!2d-111.76044068429498!3d34.872577980390716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3e3ca5d5137%3A0xfec3cf7dfe5fb9c4!2sClear%20Creek%20Trading%20Company!5e0!3m2!1sen!2sus!4v1648240064878!5m2!1sen!2sus",
-            "info": "",
+            "info": "A local trading company along AZ-89A.",
             "type": "shop",
             "img": "clear-creek.webp",
-            "website": "",
-            "hours": []
+            "website": "http://www.clearcreektrading.com/",
+            "hours": ["Monday - Sunday: 10AM-6PM"]
         },
         {
             "name": "Oak Creek Marketplace",
             "address": "241 N State Rte 89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.468060272171!2d-111.76348568429508!3d34.86959108039158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da1587626f7af%3A0xa2093be79b34042b!2sOak%20Creek%20Marketplace!5e0!3m2!1sen!2sus!4v1648240101576!5m2!1sen!2sus",
-            "info": "",
+            "info": "Market place located along AZ-89A.",
             "type": "shop",
             "img": "oak-creek.jfif",
-            "website": "",
-            "hours": []
+            "website": "Not Listed",
+            "hours": ["Monday - Sunday: 10AM-9PM"]
         },
         {
             "name": "Red Stone Center",
             "address": "150 AZ-179, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.6367239561037!2d-111.76610608429515!3d34.8653542803925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da157afbaaaab%3A0x37b17b72b49a8a86!2sRed%20Stone%20Center!5e0!3m2!1sen!2sus!4v1648240137569!5m2!1sen!2sus",
-            "info": "",
+            "info": "Shopping center located along AZ-179.",
             "type": "shop",
             "img": "red-stone-center.jpg",
-            "website": "",
-            "hours": []
+            "website": "https://redstonecenter.com/",
+            "hours": ["Sunday - Thursday: 11AM-11PM", "Friday - Saturday: 11AM-12PM"]
         },
         {
             "name": "Bell Rock Plaza",
             "address": "6086 AZ-179, Sedona, AZ 86351",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d974.1680454161956!2d-111.76409324059686!3d34.78838561073912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da609915dc451%3A0xca4f93128144c18d!2sBell%20Rock%20Plaza!5e0!3m2!1sen!2sus!4v1648240194582!5m2!1sen!2sus",
-            "info": "",
+            "info": "A shopping center located along AZ-179.",
             "type": "shop",
             "img": "bell-rock-plaza.jpg",
-            "website": "",
-            "hours": []
+            "website": "Not Listed",
+            "hours": ["Not Listed"]
         },
         {
             "name": "Tlaquepaque Arts & Shopping Village",
             "address": "336 AZ-179, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.7609610481218!2d-111.76537818429526!3d34.8622331803935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da1560b274a87%3A0xc133eeb0c9f176b3!2sTlaquepaque%20Arts%20%26%20Shopping%20Village!5e0!3m2!1sen!2sus!4v1648240335021!5m2!1sen!2sus",
-            "info": "",
+            "info": "Outdoor market featuring art galleries and craft shops.",
             "type": "shop",
             "img": "tlaquepaque.jfif",
-            "website": "",
-            "hours": []
+            "website": "http://www.tlaq.com/",
+            "hours": ["Monday - Thursday: 10AM-6PM", "Friday - Sunday: 10AM-6PM"]
         },
         {
             "name": "Sinagua Plaza",
             "address": "304 N State Rte 89A #278, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.3923532482736!2d-111.76105428429501!3d34.87149268039099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3e259f52c75%3A0x41c56788f8abe4ee!2sSinagua%20Plaza!5e0!3m2!1sen!2sus!4v1648240366977!5m2!1sen!2sus",
-            "info": "",
+            "info": "Shopping center loacted by AZ-89A.",
             "type": "shop",
             "img": "sinagua-plaza.jfif",
-            "website": "",
-            "hours": []
+            "website": "http://www.sedona-center.com/",
+            "hours": ["Monday - Thursday: 10AM-7PM", "Friday - Saturday: 9AM-7PM", "Sunday: 9:30-8PM"]
         },
         {
             "name": "Sedona Original Uptown Mall Plaza",
             "address": "273 N State Rte 89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.420934904834!2d-111.76307258429506!3d34.87077478039123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da336d1fd01a5%3A0x89e9fc0bebff295e!2sSedona%20Original%20Uptown%20Mall%20Plaza!5e0!3m2!1sen!2sus!4v1648240463633!5m2!1sen!2sus",
-            "info": "",
+            "info": "Shopping center loacted by AZ-89A.",
             "type": "shop",
             "img": "sedona-original-uptown-mall.webp",
-            "website": "",
-            "hours": []
+            "website": "Not Listed",
+            "hours": ["Monday - Sunday: 7AM-7PM"]
         }
     ]
 ]
