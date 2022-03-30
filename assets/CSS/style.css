@@ -1,6 +1,14 @@
 * {
     box-sizing: border-box;
   }
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@1,300&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+  body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    width: 100%;
+    overflow-x: hidden;
+}
 
 .cardhover{
     color: inherit;
@@ -8,16 +16,42 @@
 }
 
 .card{
-    background: 
-    linear-gradient(to right, transparent, transparent),
-    linear-gradient(to right, #d2513f, #a74332, #69322d);
-  background-size: 100% 0.1em, 0 0.1em;
-  background-position: 100% 100%, 0 100%;
-  background-repeat: no-repeat;
-  transition: background-size 400ms;
+  background:#f5c5c0;
+  transition:ease-in-out 150ms;
+  display: inline-block;
+  position: relative;
 }
 
-.card:hover , .card:focus{
-    background-size: 0 0.1em, 100% 0.1em;
-    color:coral;
+.card:after{
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color:#003c4b;
+  transform-origin: bottom right;
+  transition: transform 250ms ease-out;
+}
+
+.card:hover{
+  color:white;
+}
+
+.card:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+.nav{
+  text-decoration:none;
+}
+
+.nav-link{
+  color:#003c4b;
+}
+
+.nav-link:active, .nav-link:hover{
+  color:#003c4b
 }
