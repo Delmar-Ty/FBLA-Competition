@@ -4,33 +4,6 @@ let elements = [];
 let parent = document.querySelectorAll('.cards-container');
 let modal = document.querySelector('.modal');
 
-// Uses async/await method
-// Fetches the JSON file
-async function grabData() {
-        let response = await fetch(fileUrl);
-        places = await response.json();
-}
-
-grabData()
-    .then(() => {
-        createCards();
-        cardListener();
-    })
-    .catch(err => console.error(err))
-;
-
-// Uses .then/.catch method
-// fetch(fileUrl)
-//     .then(response => response.json())
-//     .then((data) => {
-//         places = data;
-//         createCards();
-//         cardListener();
-//     })
-//     .catch(err => console.error(err))
-// ;
-
-
 //Creates all the cards based on the size of the JSON file
 function createCards() {
     for (let i = 0; i < places.length; i++) {
@@ -39,7 +12,7 @@ function createCards() {
     for (let i = 0; i < places.length; i++) {
         for (let j = 0; j < places[i].length; j++) {
             let html = `
-            <div class="card m-2 cardhover" style="width: 19.3rem;" data-bs-toggle="modal" data-bs-target="#exampleModal" data-ds-row="${i}" data-ds-col="${j}">
+            <div class="card m-2 cardhover" style="width: 19.3rem;" data-bs-toggle="modal" data-bs-target="#mapModal" data-ds-row="${i}" data-ds-col="${j}">
                 <img style="height:15rem;" src="assets/Images/${places[i][j].type}/${places[i][j].img}" class="card-img-top" alt="${places[i][j].name}">
                 <div class="card-body d-flex align-items-center justify-content-center">
                     <h5 class="card-title">${places[i][j].name}</h5>
@@ -97,3 +70,18 @@ function updateModal(row, col) {
     </div> 
     `
 }
+
+// Fetches the JSON file then calling the other functions
+async function grabData() {
+        let response = await fetch(fileUrl);
+        places = await response.json();
+}
+
+grabData()
+    .then(() => {
+        createCards();
+        cardListener();
+    })
+    .catch(err => console.error(err))
+;
+
