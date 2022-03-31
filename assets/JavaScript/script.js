@@ -4,6 +4,20 @@ let elements = [];
 let parent = document.querySelectorAll('.cards-container');
 let modal = document.querySelector('.modal');
 
+// Fetches the JSON file then calling the other functions
+async function grabData() {
+        let response = await fetch(fileUrl);
+        places = await response.json();
+}
+
+grabData()
+    .then(() => {
+        createCards();
+        cardListener();
+    })
+    .catch(err => console.error(err))
+;
+
 //Creates all the cards based on the size of the JSON file
 function createCards() {
     for (let i = 0; i < places.length; i++) {
@@ -70,18 +84,3 @@ function updateModal(row, col) {
     </div> 
     `
 }
-
-// Fetches the JSON file then calling the other functions
-async function grabData() {
-        let response = await fetch(fileUrl);
-        places = await response.json();
-}
-
-grabData()
-    .then(() => {
-        createCards();
-        cardListener();
-    })
-    .catch(err => console.error(err))
-;
-
