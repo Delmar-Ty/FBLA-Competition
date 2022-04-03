@@ -1,22 +1,9 @@
+//Variable Declaration
 const fileUrl = 'assets/JSON/places.json';
 let places;
 let elements = [];
 let parent = document.querySelectorAll('.cards-container');
 let modal = document.querySelector('.modal');
-
-// Fetches the JSON file then calling the other functions
-async function grabData() {
-        let response = await fetch(fileUrl);
-        places = await response.json();
-}
-
-grabData()
-    .then(() => {
-        createCards();
-        cardListener();
-    })
-    .catch(err => console.error(err))
-;
 
 //Creates all the cards based on the size of the JSON file
 function createCards() {
@@ -68,7 +55,7 @@ function updateModal(row, col) {
             <div class="modal-body d-flex justify-content-start">
                 <div class="container-fluid">
                     <div class="row">
-                        <div class="col-sm-8">
+                        <div class="col-sm-8 map-responsive">
                             <iframe src="${places[row][col].map}" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                         </div>
                         <div class="col-sm-4">
@@ -84,3 +71,18 @@ function updateModal(row, col) {
     </div> 
     `
 }
+
+// Fetches the JSON file then calling the other functions
+async function grabData() {
+        let response = await fetch(fileUrl);
+        places = await response.json();
+}
+
+grabData()
+    .then(() => {
+        createCards();
+        cardListener();
+    })
+    .catch(err => console.error(err))
+;
+

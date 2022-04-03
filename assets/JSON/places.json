@@ -5,7 +5,7 @@
             "address": "Sedona, AZ 86351",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13103.987657327329!2d-111.77525900447712!3d34.80601948805446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da60a7dd8d5e7%3A0x77dc0a312f84c1b6!2sBell%20Rock%20Trailhead!5e0!3m2!1sen!2sus!4v1648083129237!5m2!1sen!2sus",
             "info": "3.6 mile trail with views of Bell Rock, Courthouse Butte, and other landmarks.",
-            "type": "attractions",
+            "type": "adventures",
             "img": "bell-rock.png",
             "website": "https://www.fs.usda.gov/recarea/coconino/recarea/?recid=55230",
             "hours": ["Open 24 Hours"]
@@ -15,7 +15,7 @@
             "address": "204 N State Rte 89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13093.986003741442!2d-111.76977480445267!3d34.868876687800835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3e2a4b3f697%3A0x54551c70d1295739!2sPink%20Jeep%20Tours!5e0!3m2!1sen!2sus!4v1648083432135!5m2!1sen!2sus",
             "info": "A company that offers guided jeep tours of Sedona Arizona.",
-            "type": "attractions",
+            "type": "adventures",
             "img": "pink-jeep-tours.png",
             "website": "https://www.pinkadventuretours.com/tours/sedona-tours?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing&utm_id=Sedona+GMB",
             "hours": ["Monday - Sunday: 6AM-8PM"]
@@ -25,7 +25,7 @@
             "address": "6871 AZ-89A, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13082.078812608268!2d-111.76166400442355!3d34.94358078750137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da245f82fa8c7%3A0xdea6820f805d0b1b!2sSlide%20Rock%20State%20Park!5e0!3m2!1sen!2sus!4v1648083873363!5m2!1sen!2sus",
             "info": "Slide Rock Sate Park is a 43-acre historic apple farm in Oak Creek Canyon.",
-            "type": "attractions",
+            "type": "adventures",
             "img": "slide-rock.png",
             "website": "https://azstateparks.com/slide-rock/",
             "hours": ["Monday - Sunday: 8AM - 6PM"]
@@ -35,7 +35,7 @@
             "address": "500 Back O Beyond Rd, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13100.941424120261!2d-111.79727360446971!3d34.82517458797701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da6ec6238834f%3A0x6e8911e9b1e52fad!2sCathedral%20Rock%20Trailhead!5e0!3m2!1sen!2sus!4v1648084076115!5m2!1sen!2sus",
             "info": "Cathedral Rock is a 1.2 Mile trail near Sedona considered a challenging route.",
-            "type": "attractions",
+            "type": "adventures",
             "img": "cathedral-rock.png",
             "website": "http://www.fs.usda.gov/detail/coconino/recreation/?cid=stelprdb5416207",
             "hours": ["Not Listed"]
@@ -45,7 +45,7 @@
             "address": "780 Chapel Rd, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13099.855166607578!2d-111.77550926205669!3d34.83200288641417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da69844c84035%3A0xc9ec47f79f1d063b!2sChapel%20of%20the%20Holy%20Cross!5e0!3m2!1sen!2sus!4v1648084273741!5m2!1sen!2sus",
             "info": "A modern 1950s chapel with a striking location atop red rock buttes & wide views of the Sedona area.",
-            "type": "attractions",
+            "type": "adventures",
             "img": "chapel-of-the-holy-cross.png",
             "website": "http://chapeloftheholycross.com/",
             "hours": ["Monday - Sunday: 9AM-5PM"]
@@ -55,7 +55,7 @@
             "address": "Devil's Bridge Trail, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13088.588421136114!2d-111.82254346202915!3d34.90275768612806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da04d6eecbba9%3A0x82d166faa66f0ded!2sDevil&#39;s%20Bridge%20Trailhead!5e0!3m2!1sen!2sus!4v1648084394071!5m2!1sen!2sus",
             "info": "Moderate 1.8 mile roundtrip hike to a sandstone arch.",
-            "type": "attractions",
+            "type": "adventures",
             "img": "devil's-bridge.png",
             "website": "https://www.alltrails.com/explore/trail/us/arizona/devils-bridge-trail",
             "hours": ["Not Listed"]
@@ -65,7 +65,7 @@
             "address": "W Fork Trail, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13074.570763335061!2d-111.75188296199495!3d34.990613685775465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872d9933a3a0bd81%3A0x480f527a9275d032!2sWest%20Fork%20Oak%20Creek%20Trailhead!5e0!3m2!1sen!2sus!4v1648084583672!5m2!1sen!2sus",
             "info": "Scenic nation forest trail following cliffs, a stream & canyons.",
-            "type": "attractions",
+            "type": "adventures",
             "img": "west-fork.png",
             "website": "https://www.fs.usda.gov/recarea/coconino/recarea/?recid=55432",
             "hours": ["Monday - Sunday: 8AM-6PM"]
@@ -75,7 +75,7 @@
             "address": "799 Morgan Rd, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13097.699710800905!2d-111.76564406205136!3d34.845548786359196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da41c8ceb2995%3A0x743d9692b5bb848a!2sBroken%20Arrow%20Trail!5e0!3m2!1sen!2sus!4v1648084744754!5m2!1sen!2sus",
             "info": "A rugged off-road trail.",
-            "type": "attractions",
+            "type": "adventures",
             "img": "broken-arrow.png",
             "website": "https://www.fs.usda.gov/recarea/coconino/recarea/?recid=55250",
             "hours": ["Not Listed"]
@@ -85,7 +85,7 @@
             "address": "79 Schnebly Hill Rd, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.872206129063!2d-111.76574576204452!3d34.86331118628733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3fdef8dd341%3A0xf7d402b36eb1f4cb!2sSnoopy%20Rock!5e0!3m2!1sen!2sus!4v1648084794193!5m2!1sen!2sus",
             "info": "A rock formation that resembles the a dog from the popular Charlie Brown comics.",
-            "type": "attractions",
+            "type": "adventures",
             "img": "snoopy-rock.png",
             "website": "Not Listed",
             "hours": ["Not Listed"]
@@ -95,7 +95,7 @@
             "address": "Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.081096372964!2d-111.75699998440365!3d34.829053483840106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da425dabac085%3A0xa1ef47cedc6507e7!2sChicken%20Point%20Overlook!5e0!3m2!1sen!2sus!4v1648154701315!5m2!1sen!2sus",
             "info": "A moderate hike that is a 4 mile loop.",
-            "type": "attractions",
+            "type": "adventures",
             "img": "chicken-point.png",
             "website": "Not Listed",
             "hours": ["Open 24 Hours"]
@@ -105,7 +105,7 @@
             "address": "AZ-179, Sedona, AZ 86351",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3279.188210164428!2d-111.77740718440549!3d34.72564998938873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da93ef659ad6d%3A0x4c10a14d13c24cc7!2sRed%20Rock%20Scenic%20Byway!5e0!3m2!1sen!2sus!4v1648154916123!5m2!1sen!2sus",
             "info": "A scenic view right off the highway near Sedona Arizona that gives views of the Sedona red rock country.",
-            "type": "attractions",
+            "type": "adventures",
             "img": "red-rock-byway.png",
             "website": "Not Listed",
             "hours": ["Not Listed"]
@@ -115,7 +115,7 @@
             "address": "483 Airport Rd, Sedona, AZ 86336",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3274.0178271934105!2d-111.78225098440309!3d34.85577938240366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da14b79c7a2b5%3A0xf42cf16ec607e7da!2sAirport%20Mesa!5e0!3m2!1sen!2sus!4v1648155249066!5m2!1sen!2sus",
             "info": "Hiking loop around Table Top Mountain through basalt boulders & red rocks to panoramic views.",
-            "type": "attractions",
+            "type": "adventures",
             "img": "airport-mesa.png",
             "website": "http://www.fs.usda.gov/recarea/coconino/recarea/?recid=71905",
             "hours": ["Open 24 Hours"]
@@ -130,17 +130,8 @@
             "type": "food",
             "hours": ["Monday - Sunday: 3:30-9PM"],
             "img": "tii-gavo.png",
-            "website": "https://www.enchantmentresort.com/dining/tii-gavo/"
-        },
-        {
-            "name": "Elote Cafe",
-            "address": "350 Jordan Rd, Sedona, AZ 86336",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.3707265125536!2d-111.76304928440278!3d34.87203588152939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da374ad73e839%3A0x858410f041c76611!2sElote%20Cafe!5e0!3m2!1sen!2sus!4v1648155562800!5m2!1sen!2sus",
-            "info": "A modern Mexican & Southwestern restaurant.",
-            "type": "food",
-            "hours": ["Sunday & Monday: Closed", "Tuesday - Friday: 5-9PM"],
-            "img": "elote-cafe.png",
-            "website": "http://www.elotecafe.com/"
+            "website": "https://www.enchantmentresort.com/dining/tii-gavo/",
+            "fare": "Southwestern"
         },
         {
             "name": "Cowboy Club Grille & Spirits",
@@ -150,67 +141,8 @@
             "type": "food",
             "hours": ["Monday - Sunday: 11AM-9PM"],
             "img": "cowboy-club.png",
-            "website": "http://www.cowboyclub.com/"
-        },
-        {
-            "name": "The Hudson",
-            "address": "671 AZ-179 ste d, Sedona, AZ 86336 (Located in: HillSide Sedona Shopping Center).",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.915564090884!2d-111.76498228440309!3d34.85834888226557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da1559d466735%3A0xb8b0fd8587855e29!2sThe%20Hudson!5e0!3m2!1sen!2sus!4v1648155791188!5m2!1sen!2sus",
-            "info": "Neighborhood restaurant serving New American fare.",
-            "type": "food",
-            "hours": ["Monday - Sunday: 11:30AM-9PM"],
-            "img": "the-hudson.png",
-            "website": "http://www.thehudsonsedona.com/"
-        },
-        {
-            "name": "Mariposa Latin Inspired Grill",
-            "address": "700 AZ-89A, Sedona, AZ 86336",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.391820445642!2d-111.7834025620433!3d34.86632818627511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da14543bf35f3%3A0x789c302cd63768cc!2sMariposa%20Latin%20Inspired%20Grill!5e0!3m2!1sen!2sus!4v1648161437921!5m2!1sen!2sus",
-            "info": "Upscale restaurant & bar with South American inspired cuisine.",
-            "type": "food",
-            "hours": ["Sunday - Wednesday: 4-9PM", "Thursday - Saturday: 4-10PM"],
-            "img": "mariposa-latin.png",
-            "website": "http://mariposasedona.com/"
-        },
-        {
-            "name": "Creekside American Bistro",
-            "address": "251 AZ-179, Sedona, AZ 86336",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.76796376886!2d-111.77215916204423!3d34.86396588628466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da156440a383b%3A0xe16c51af8459fe8b!2sCreekside%20American%20Bistro!5e0!3m2!1sen!2sus!4v1648161588244!5m2!1sen!2sus",
-            "info": "Casual, upscale spot with seasonal meals & beers.",
-            "type": "food",
-            "hours": ["Sunday: 12-6PM", "Monday - Saturday: 10AM-6PM"],
-            "img": "creekside-american-bistro.png",
-            "website": "http://creeksidesedona.com/"
-        },
-        {
-            "name": "Dahl & Di Luca Ristorante",
-            "address": "2321 AZ-89A, Sedona, AZ 86336",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.940479410547!2d-111.80955646204468!3d34.862882386289066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da125add1bda7%3A0x5b6c0c28eeef3fb4!2sDahl%20%26%20Di%20Luca%20Ristorante!5e0!3m2!1sen!2sus!4v1648162822627!5m2!1sen!2sus",
-            "info": "Italian fare at this villa-themed decor & grotto.",
-            "type": "food",
-            "hours": ["Friday & Saturday: 5-9:45PM", "Sunday - Thursday: 5-8:45PM"],
-            "img": "dahl-and-diluca.png",
-            "website": "http://www.dahlanddiluca.com/"
-        },
-        {
-            "name": "The Golden Goose American Grill",
-            "address": "2545 W State Rte 89A, Sedona, AZ 86336",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.99423136612!2d-111.8133634620448!3d34.86254478629042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da12660a95bf7%3A0xe7ab38a306225199!2sThe%20Golden%20Goose%20American%20Grill!5e0!3m2!1sen!2sus!4v1648163111008!5m2!1sen!2sus",
-            "info": "Cozy cafe for steaks, burgers & pasta.",
-            "type": "food",
-            "hours": ["Saturday: 11AM-8PM", "Sunday - Friday: 11AM-7:30PM"],
-            "img": "the-golden-goose.png",
-            "website": "http://www.dahlanddiluca.com/"
-        },
-        {
-            "name": "Tamaliza Cafe",
-            "address": "1155 W State Rte 89A, Sedona, AZ 86336",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13095.07611624687!2d-111.78996976204499!3d34.86203048629249!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da14863539e5d%3A0x92509476209f2f04!2sTamaliza!5e0!3m2!1sen!2sus!4v1648163204578!5m2!1sen!2sus",
-            "info": "Family-owned, Mexican nook with outdoor seating.",
-            "type": "food",
-            "hours": ["Monday: Closed", "Tuesday - Sunday: 9AM-7PM"],
-            "img": "tamaliza-cafe.png",
-            "website": "http://sedonatamaliza.com/"
+            "website": "http://www.cowboyclub.com/",
+            "fare": "Southwestern"
         },
         {
             "name": "Coffee Pot Restaurant",
@@ -220,7 +152,85 @@
             "type": "food",
             "hours": ["Monday - Sunday: 6AM-2PM"],
             "img": "coffee-pot.png",
-            "website": "https://coffeepotsedona.com/"
+            "website": "https://coffeepotsedona.com/",
+            "fare": "Southwestern"
+        },
+        {
+            "name": "Elote Cafe",
+            "address": "350 Jordan Rd, Sedona, AZ 86336",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.3707265125536!2d-111.76304928440278!3d34.87203588152939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da374ad73e839%3A0x858410f041c76611!2sElote%20Cafe!5e0!3m2!1sen!2sus!4v1648155562800!5m2!1sen!2sus",
+            "info": "A modern Mexican & Southwestern restaurant.",
+            "type": "food",
+            "hours": ["Sunday & Monday: Closed", "Tuesday - Friday: 5-9PM"],
+            "img": "elote-cafe.png",
+            "website": "http://www.elotecafe.com/",
+            "fare": "Mexican"
+        },
+        {
+            "name": "Tamaliza Cafe",
+            "address": "1155 W State Rte 89A, Sedona, AZ 86336",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13095.07611624687!2d-111.78996976204499!3d34.86203048629249!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da14863539e5d%3A0x92509476209f2f04!2sTamaliza!5e0!3m2!1sen!2sus!4v1648163204578!5m2!1sen!2sus",
+            "info": "Family-owned, Mexican nook with outdoor seating.",
+            "type": "food",
+            "hours": ["Monday: Closed", "Tuesday - Sunday: 9AM-7PM"],
+            "img": "tamaliza-cafe.png",
+            "website": "http://sedonatamaliza.com/",
+            "fare": "Mexican"
+        },
+        {
+            "name": "The Hudson",
+            "address": "671 AZ-179 ste d, Sedona, AZ 86336 (Located in: HillSide Sedona Shopping Center).",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.915564090884!2d-111.76498228440309!3d34.85834888226557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da1559d466735%3A0xb8b0fd8587855e29!2sThe%20Hudson!5e0!3m2!1sen!2sus!4v1648155791188!5m2!1sen!2sus",
+            "info": "Neighborhood restaurant serving New American fare.",
+            "type": "food",
+            "hours": ["Monday - Sunday: 11:30AM-9PM"],
+            "img": "the-hudson.png",
+            "website": "http://www.thehudsonsedona.com/",
+            "fare": "Other"
+        },
+        {
+            "name": "Mariposa Latin Inspired Grill",
+            "address": "700 AZ-89A, Sedona, AZ 86336",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.391820445642!2d-111.7834025620433!3d34.86632818627511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da14543bf35f3%3A0x789c302cd63768cc!2sMariposa%20Latin%20Inspired%20Grill!5e0!3m2!1sen!2sus!4v1648161437921!5m2!1sen!2sus",
+            "info": "Upscale restaurant & bar with South American inspired cuisine.",
+            "type": "food",
+            "hours": ["Sunday - Wednesday: 4-9PM", "Thursday - Saturday: 4-10PM"],
+            "img": "mariposa-latin.png",
+            "website": "http://mariposasedona.com/",
+            "fare": "Other"
+        },
+        {
+            "name": "Creekside American Bistro",
+            "address": "251 AZ-179, Sedona, AZ 86336",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.76796376886!2d-111.77215916204423!3d34.86396588628466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da156440a383b%3A0xe16c51af8459fe8b!2sCreekside%20American%20Bistro!5e0!3m2!1sen!2sus!4v1648161588244!5m2!1sen!2sus",
+            "info": "Casual, upscale spot with seasonal meals & beers.",
+            "type": "food",
+            "hours": ["Sunday: 12-6PM", "Monday - Saturday: 10AM-6PM"],
+            "img": "creekside-american-bistro.png",
+            "website": "http://creeksidesedona.com/",
+            "fare": "Other"
+        },
+        {
+            "name": "Dahl & Di Luca Ristorante",
+            "address": "2321 AZ-89A, Sedona, AZ 86336",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.940479410547!2d-111.80955646204468!3d34.862882386289066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da125add1bda7%3A0x5b6c0c28eeef3fb4!2sDahl%20%26%20Di%20Luca%20Ristorante!5e0!3m2!1sen!2sus!4v1648162822627!5m2!1sen!2sus",
+            "info": "Italian fare at this villa-themed decor & grotto.",
+            "type": "food",
+            "hours": ["Friday & Saturday: 5-9:45PM", "Sunday - Thursday: 5-8:45PM"],
+            "img": "dahl-and-diluca.png",
+            "website": "http://www.dahlanddiluca.com/",
+            "fare": "Other"
+        },
+        {
+            "name": "The Golden Goose American Grill",
+            "address": "2545 W State Rte 89A, Sedona, AZ 86336",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.99423136612!2d-111.8133634620448!3d34.86254478629042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da12660a95bf7%3A0xe7ab38a306225199!2sThe%20Golden%20Goose%20American%20Grill!5e0!3m2!1sen!2sus!4v1648163111008!5m2!1sen!2sus",
+            "info": "Cozy cafe for steaks, burgers & pasta.",
+            "type": "food",
+            "hours": ["Saturday: 11AM-8PM", "Sunday - Friday: 11AM-7:30PM"],
+            "img": "the-golden-goose.png",
+            "website": "http://www.dahlanddiluca.com/",
+            "fare": "Other"
         },
         {
             "name": "Pisa Lisa",
@@ -230,7 +240,8 @@
             "type": "food",
             "hours": ["Friday & Saturday: 11:30AM-10PM", "Sunday - Thursday: 11:30AM-9PM"],
             "img": "pisa-lisa.png",
-            "website": "http://www.pisalisa.com/"
+            "website": "http://www.pisalisa.com/",
+            "fare": "Other"
         },
         {
             "name": "Rene at Tlaquepaque",
@@ -240,7 +251,8 @@
             "type": "food",
             "hours": ["Monday - Sunday: 5-9PM"],
             "img": "rene.png",
-            "website": "http://www.renerestaurantsedona.com/"
+            "website": "http://www.renerestaurantsedona.com/",
+            "fare": "Other"
         }
     ],
     [
