@@ -61,8 +61,8 @@ function updateModal(row, col) {
                         <div class="col-sm-4">
                             <p><strong>Address: </strong>${places[row][col].address}</p>
                             <p><strong>Info: </strong>${places[row][col].info}</p>
-                            <p><strong>Hours: </strong>${places[row][col].hours.join('<br>')}</p>
-                            <p><strong>Website: </strong><a href="${places[row][col].website}" target="_blank">${places[row][col].name}</p>
+                            <p><strong>Hours: </strong>${places[row][col].hours}</p>
+                            <p><strong>Website: </strong><a href="${places[row][col].website}" target="_blank">${places[row][col].website}</p>
                         </div>
                     </div>
                 </div>
@@ -72,12 +72,28 @@ function updateModal(row, col) {
     `
 }
 
+
 // Fetches the JSON file then calling the other functions
 async function grabData() {
-        let response = await fetch(fileUrl);
-        places = await response.json();
+    let response = await fetch(fileUrl);
+    places = await response.json();
 }
 
+//Create and download the from data in a .txt file
+function downloadData(data, name = "formData") {
+    let blob = new Blob([data], {type: 'text/plain'});
+    let link = URL.createObjectURL(blob);
+    let a = document.createElement('a');
+    a.style.display = 'none';
+    a.setAttribute('href', link);
+    a.download = `${name}.txt`;
+    document.body.appendChild(a);
+    a.click();
+    URL.revokeObjectURL(link);
+    location.reload();
+}
+
+//Calls all functions to create cards
 grabData()
     .then(() => {
         createCards();
@@ -86,3 +102,13 @@ grabData()
     .catch(err => console.error(err))
 ;
 
+//Adding an even listener to the submit button to call the function and download the blob file
+document.addEventListener('submit', function() {
+    let formData = `
+Name: ${document.querySelector('#name').value}
+
+Email: ${document.querySelector('#email').value}
+
+Message: ${document.querySelector('#text-area').value}`;
+    downloadData(formData);
+});

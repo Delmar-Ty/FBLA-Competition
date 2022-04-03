@@ -95,3 +95,46 @@ body{
   position:absolute;
 
 }
+
+/* Anchro Tag Text Wrapping */
+
+a {
+  word-wrap: break-word;
+}
+
+/* Chat Box */
+
+.chat-box {
+  position: fixed;
+  right: 5%;
+  bottom: 5%;
+  background-color: #003c4b;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  transition: all;
+  transition-duration: 0.5s;
+  opacity: 0.6;
+}
+
+.chat-icon {
+  font-size: 3rem;
+  color: white;
+  margin-top: -20%;
+  border-style: none;
+}
+
+.chat-box:hover {
+  transform: scale(1.1);
+  opacity: 1;
+}
+
+.form-submit {
+  background-color: #f5c5c0;
+  transition: all;
+  transition-duration: 0.5s;
+}
+
+.form-submit:hover {
+  transform: scale(1.1);
+}
