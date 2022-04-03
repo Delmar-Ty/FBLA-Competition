@@ -130,8 +130,7 @@
             "type": "food",
             "hours": ["Monday - Sunday: 3:30-9PM"],
             "img": "tii-gavo.png",
-            "website": "https://www.enchantmentresort.com/dining/tii-gavo/",
-            "fare": "Southwestern"
+            "website": "https://www.enchantmentresort.com/dining/tii-gavo/"
         },
         {
             "name": "Cowboy Club Grille & Spirits",
@@ -141,8 +140,7 @@
             "type": "food",
             "hours": ["Monday - Sunday: 11AM-9PM"],
             "img": "cowboy-club.png",
-            "website": "http://www.cowboyclub.com/",
-            "fare": "Southwestern"
+            "website": "http://www.cowboyclub.com/"
         },
         {
             "name": "Coffee Pot Restaurant",
@@ -152,8 +150,7 @@
             "type": "food",
             "hours": ["Monday - Sunday: 6AM-2PM"],
             "img": "coffee-pot.png",
-            "website": "https://coffeepotsedona.com/",
-            "fare": "Southwestern"
+            "website": "https://coffeepotsedona.com/"
         },
         {
             "name": "Elote Cafe",
@@ -163,8 +160,7 @@
             "type": "food",
             "hours": ["Sunday & Monday: Closed", "Tuesday - Friday: 5-9PM"],
             "img": "elote-cafe.png",
-            "website": "http://www.elotecafe.com/",
-            "fare": "Mexican"
+            "website": "http://www.elotecafe.com/"
         },
         {
             "name": "Tamaliza Cafe",
@@ -174,8 +170,7 @@
             "type": "food",
             "hours": ["Monday: Closed", "Tuesday - Sunday: 9AM-7PM"],
             "img": "tamaliza-cafe.png",
-            "website": "http://sedonatamaliza.com/",
-            "fare": "Mexican"
+            "website": "http://sedonatamaliza.com/"
         },
         {
             "name": "The Hudson",
@@ -185,8 +180,7 @@
             "type": "food",
             "hours": ["Monday - Sunday: 11:30AM-9PM"],
             "img": "the-hudson.png",
-            "website": "http://www.thehudsonsedona.com/",
-            "fare": "Other"
+            "website": "http://www.thehudsonsedona.com/"
         },
         {
             "name": "Mariposa Latin Inspired Grill",
@@ -196,8 +190,7 @@
             "type": "food",
             "hours": ["Sunday - Wednesday: 4-9PM", "Thursday - Saturday: 4-10PM"],
             "img": "mariposa-latin.png",
-            "website": "http://mariposasedona.com/",
-            "fare": "Other"
+            "website": "http://mariposasedona.com/"
         },
         {
             "name": "Creekside American Bistro",
@@ -207,8 +200,7 @@
             "type": "food",
             "hours": ["Sunday: 12-6PM", "Monday - Saturday: 10AM-6PM"],
             "img": "creekside-american-bistro.png",
-            "website": "http://creeksidesedona.com/",
-            "fare": "Other"
+            "website": "http://creeksidesedona.com/"
         },
         {
             "name": "Dahl & Di Luca Ristorante",
@@ -218,8 +210,7 @@
             "type": "food",
             "hours": ["Friday & Saturday: 5-9:45PM", "Sunday - Thursday: 5-8:45PM"],
             "img": "dahl-and-diluca.png",
-            "website": "http://www.dahlanddiluca.com/",
-            "fare": "Other"
+            "website": "http://www.dahlanddiluca.com/"
         },
         {
             "name": "The Golden Goose American Grill",
@@ -229,8 +220,7 @@
             "type": "food",
             "hours": ["Saturday: 11AM-8PM", "Sunday - Friday: 11AM-7:30PM"],
             "img": "the-golden-goose.png",
-            "website": "http://www.dahlanddiluca.com/",
-            "fare": "Other"
+            "website": "http://www.dahlanddiluca.com/"
         },
         {
             "name": "Pisa Lisa",
@@ -240,8 +230,7 @@
             "type": "food",
             "hours": ["Friday & Saturday: 11:30AM-10PM", "Sunday - Thursday: 11:30AM-9PM"],
             "img": "pisa-lisa.png",
-            "website": "http://www.pisalisa.com/",
-            "fare": "Other"
+            "website": "http://www.pisalisa.com/"
         },
         {
             "name": "Rene at Tlaquepaque",
@@ -251,8 +240,7 @@
             "type": "food",
             "hours": ["Monday - Sunday: 5-9PM"],
             "img": "rene.png",
-            "website": "http://www.renerestaurantsedona.com/",
-            "fare": "Other"
+            "website": "http://www.renerestaurantsedona.com/"
         }
     ],
     [
