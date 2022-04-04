@@ -114,5 +114,5 @@ function sendEmail(e) {
     });
 }
     
-// Adding an even listener to the submit button to call the function and download the blob file
+// Adding an even listener to the submit button to call the function and send the email with the form data
     document.addEventListener('submit', sendEmail);
