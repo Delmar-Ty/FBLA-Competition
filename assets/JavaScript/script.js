@@ -79,36 +79,40 @@ async function grabData() {
     places = await response.json();
 }
 
-//Create and download the from data in a .txt file
-function downloadData(data, name = "formData") {
-    let blob = new Blob([data], {type: 'text/plain'});
-    let link = URL.createObjectURL(blob);
-    let a = document.createElement('a');
-    a.style.display = 'none';
-    a.setAttribute('href', link);
-    a.download = `${name}.txt`;
-    document.body.appendChild(a);
-    a.click();
-    URL.revokeObjectURL(link);
-    location.reload();
-}
 
 //Calls all functions to create cards
 grabData()
-    .then(() => {
-        createCards();
-        cardListener();
-    })
-    .catch(err => console.error(err))
+.then(() => {
+    createCards();
+    cardListener();
+})
+.catch(err => console.error(err))
 ;
 
-//Adding an even listener to the submit button to call the function and download the blob file
-document.addEventListener('submit', function() {
-    let formData = `
-Name: ${document.querySelector('#name').value}
 
-Email: ${document.querySelector('#email').value}
+//Send an email with the form data
+function sendEmail(e) {
+    e.preventDefault();
+    let name = document.querySelector('#name').value;
+    let email = document.querySelector('#email').value;
+    let msg = document.querySelector('#text-area').value;
+    
+    Email.send({
+        SecureToken : '17838ead-6bed-4fa7-a7e4-8f542faf9bae',
+        To : 'dschro206@west-mec.org',
+        From : 'reliablesource13@gmail.com',
+        Subject : 'Contact Form',
+        Body : `
+        Name: ${name}
+        Email: ${email}
 
-Message: ${document.querySelector('#text-area').value}`;
-    downloadData(formData);
-});
+        Message: ${msg}
+        `
+    }).then(() => {
+        alert('Email Sent');
+        location.reload();
+    });
+}
+    
+// Adding an even listener to the submit button to call the function and download the blob file
+    document.addEventListener('submit', sendEmail);
