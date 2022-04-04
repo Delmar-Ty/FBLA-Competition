@@ -1,12 +1,17 @@
 Ethereal Sedona
 
-Made by: Delmar Schrock, Samuel Mun, and Ryan McDowell
+Made by: 
+    
+    Delmar Schrock, Samuel Mun, and Ryan McDowell
 
 
-Tools: HTML5, CSS3, JavaScript, JSON (JavaScript Object Notation), Bootstrap5, GitHub, Canva, Google Maps.
+Tools: 
+    
+    HTML5, CSS3, JavaScript, JSON (JavaScript Object Notation), Bootstrap5, GitHub, Canva, Google Maps.
 
 
 Design:
+
     -Color scheme is white and pink with black and white text contrast.
 
     -Application is simple and user friendly.
@@ -23,6 +28,7 @@ Design:
 
 
 Functionality:
+
     -When the page loads the user is greeted by a nav bar of tabs.
 
     -Each of the tabs is a category of attraction such as Things To Do, Food, Gas, Hotels, and Shopping.
@@ -43,6 +49,7 @@ Functionality:
 
 
 HTML:
+
     -Header with a logo, name, and mission statement “Explore With Us”.
 
     -Nav bar used for the Bootstrap tabbing filters.
@@ -57,6 +64,7 @@ HTML:
 
 
 CSS: 
+
     -Transitions using the after pseudo elements to give each card a flare whenever the user hovers over the card.
 
     -Open Sans font used throughout the page.
@@ -75,6 +83,7 @@ CSS:
 
 
 JavaScript:
+
     -Made with vanilla JavaScript and JSON (JavaScript Object Notation).
 
     -Used Data Types,  Variables, Arrays, Loops, Functions, JavaScript Fetch API, Template Literals, Asynchronous Functions, Event Listeners,  and Promises.
@@ -95,6 +104,7 @@ JavaScript:
 
 
 JSON (JavaScript Object Notation):
+
     -JSON was used for data storage which held the information about every attraction on our list.
 
     -JSON adds data structure to all our information. In this case the data was structured in a 2 dimensional array, the first dimension being which of the 5 categories of attraction, and the second dimension being an object for each of the attractions in that category.
@@ -208,5 +218,4 @@ File Hierarchy:
 		JavaScript - [
 			script.js
 		]
-
-]
+    ]
