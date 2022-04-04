@@ -157,9 +157,9 @@ File Hierarchy:
 				pisa-lisa.png
 				rene.png
 				tamaliza-cafe.png
-                the-golden-goose.png
-                the-hudson.png
-                tii-gavo.png	
+                		the-golden-goose.png
+               			the-hudson.png
+                		tii-gavo.png	
 			]
 
 			gas - [
