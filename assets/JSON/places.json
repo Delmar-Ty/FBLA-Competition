@@ -250,7 +250,7 @@
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13095.75440028207!2d-111.77223236204662!3d34.85777008630972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da15575cee10f%3A0xfced00bee21d5226!2sCircle%20K!5e0!3m2!1sen!2sus!4v1648164031360!5m2!1sen!2sus",
             "info": "Circle K gas station located along AZ-179 with In-store shopping.",
             "type": "gas",
-            "img": "circle-K.png",
+            "img": "circle-K-179.png",
             "website": "https://www.circlek.com/store-locator/US/sedona/711-hwy-179/2700587?utm_source=google&utm_medium=local&utm_campaign=google-local",
             "hours": ["Open 24 Hours"]
         },
@@ -260,7 +260,7 @@
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13094.859946157092!2d-111.81389226204446!3d34.863388186287004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da126efbc4311%3A0x4e392c3484302866!2sCircle%20K!5e0!3m2!1sen!2sus!4v1648164146236!5m2!1sen!2sus",
             "info": "Cricle K gas station along AZ-89A with In-store shopping.",
             "type": "gas",
-            "img": "circle-K-2.png",
+            "img": "circle-K-89.png",
             "website": "https://www.circlek.com/store-locator/US/sedona/2570-w-hwy-89a/2701535?utm_source=google&utm_medium=local&utm_campaign=google-local",
             "hours": ["Open 24 Hours"]
         },
