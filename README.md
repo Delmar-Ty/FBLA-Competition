@@ -7,7 +7,7 @@ Made by:
 
 Tools: 
     
-    HTML5, CSS3, JavaScript, JSON (JavaScript Object Notation), Bootstrap5, GitHub, Canva, Google Maps.
+    HTML5, CSS3, JavaScript, JSON (JavaScript Object Notation), Bootstrap5, GitHub, Canva, Google Maps, SmtpJS.
 
 
 Design:
@@ -43,7 +43,7 @@ Functionality:
 
     -As an added bonus the website loads quite quickly with minimal delay.
 
-    -The user can click the button with a speech bubble icon to toggle a chat box which will allow the user to ask any questions they may have  about anything. The chat box only downloads a txt file containing the information from the form however in practice it would send an email with the form data to a business email address so it can be responded to (Sending it to an email address was not put into practice for security concerns).
+    -The user can click the button with a speech bubble icon to toggle a chat box which will allow the user to ask any questions they may have about anything. The chat box will send an email with the message the user sent along with name and email address (so there is an address to respond to).
 
     -The website DOES NOT save user information.
 
@@ -100,7 +100,7 @@ JavaScript:
 
     -When the card is clicked a Bootstrap modal will popup and dynamically update the information inside by going back to the variable that stored the places.json data and using some data attributes attached to each card, finds the object with the information of that card.
 
-    -When the user submits the chat box form, the data from the form is retrieved and put inside a blob object which is promptly downloaded as a .txt file to the user’s computer.
+    -When the user submits the chat box form, the data from the form is retrieved and is emailed to a designated address using SmtpJS and reloads the page once the information was sent.
 
 
 JSON (JavaScript Object Notation):
