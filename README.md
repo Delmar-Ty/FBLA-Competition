@@ -7,7 +7,7 @@ Made by:
 
 Tools: 
     
-    HTML5, CSS3, JavaScript, JSON (JavaScript Object Notation), Bootstrap5, GitHub, Canva, Google Maps, SmtpJS.
+    HTML5, CSS3, JavaScript, JSON (JavaScript Object Notation), Bootstrap5, GitHub, Canva, Figma, Google Maps, SmtpJS.
 
 
 Design:
@@ -157,9 +157,9 @@ File Hierarchy:
 				pisa-lisa.png
 				rene.png
 				tamaliza-cafe.png
-                the-golden-goose.png
-                the-hudson.png
-                tii-gavo.png	
+                		the-golden-goose.png
+               			the-hudson.png
+                		tii-gavo.png	
 			]
 
 			gas - [
