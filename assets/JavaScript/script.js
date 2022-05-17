@@ -19,7 +19,7 @@ function createCards() {
                     <h5 class="card-title">${places[i][j].name}</h5>
                 </div>
             </div>`;
-            elements[i][j] = html;
+            elements[i][j] = html;  
         }
     }
     for (let i = 0; i < places.length; i++) {
