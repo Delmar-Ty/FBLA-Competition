@@ -9,6 +9,9 @@ Tools:
     
     HTML5, CSS3, JavaScript, JSON (JavaScript Object Notation), Bootstrap5, GitHub, Canva, Figma, Google Maps, SmtpJS.
 
+Purpose:
+
+	To suggest various attractions in a local city or state to users that they can also search for based on desired attributes.
 
 Design:
 
